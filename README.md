@@ -16,6 +16,9 @@
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       </li>
       <li>
+      <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+      </li>
+      <li>
         <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
            style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
       </li>

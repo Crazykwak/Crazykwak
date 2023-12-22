@@ -39,7 +39,7 @@
 
 ### 🔍 Profile
 
-[**프로필** | Crazykwak Profile](https://potent-grey-e01.notion.site/36c7ffc9d32e4e83b325da26ed8d1728)
+[**프로필** | Crazykwak Profile](https://crazyleader.notion.site/crazyleader/36c7ffc9d32e4e83b325da26ed8d1728)
 
 ### 📝 Blog
 [**블로그** | Crazykwak Blog](https://velog.io/@kwj1830)
